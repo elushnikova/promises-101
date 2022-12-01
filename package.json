@@ -1,0 +1,14 @@
+{
+  "name": "promises-101",
+  "version": "1.0.0",
+  "description": "Маленькое упражнение на базовое использование промисов",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "contributors": [
+    "Lena Lushnikova"
+  ],
+  "license": "ISC"
+}
